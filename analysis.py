@@ -29,7 +29,7 @@ top_product_sales = product_summary.max()
 
 #  Dashboard size
 plt.figure(figsize=(14, 6))
-plt.suptitle('Sales Performance Dashboard - AGNEYRA', fontsize=16, fontweight='bold')
+plt.suptitle('Sales Performance Analysis', fontsize=16, fontweight='bold')
 plt.figtext(
     0.5, 0.90,
     f"Total Sales: ₹{total_sales:,.2f} | Top Product: {top_product} (₹{top_product_sales:,.2f})",
