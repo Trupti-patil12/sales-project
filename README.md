@@ -57,5 +57,11 @@ git clone https://github.com/Trupti-patil12/sales-project.git
 **Trupti Patil**  
 Data Analytics Intern – Agneyra
 
+🏢 Internship Details
+Company: Agneyra
+Project Type: Mini Project
+Project Number: first project Project
+Email: agneyra63@gmail.com
+URN: UDYAM-AP-01-011115
 
 
